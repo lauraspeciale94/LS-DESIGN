@@ -768,7 +768,7 @@ color: #4a2030; */
         justify-content: space-between;
         z-index: 1200;
         position: relative;
-        right: 35px; /* Portato a zero per evitare spinte */
+        right: 0px; /* Portato a zero per evitare spinte */
 
     }
 
