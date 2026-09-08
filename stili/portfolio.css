@@ -59,27 +59,27 @@ body {
 }
 /* Header Sezione architettura*/
  .hero-architecture-bright {
-  background: url("../img/camera_letto.webp") no-repeat center center/cover;
+  background: url("../img/camera_letto.jpg") no-repeat center center/cover;
 }
 .hero-architecture-rosalia {
- background: url("../img/padiglione_rosalia_render.webp") no-repeat center center/cover;
+ background: url("../img/padiglione_rosalia_render.png") no-repeat center center/cover;
 }
 .hero-architecture-zeus {
- background: url("../img/render_tempio_di_zeus.webp") no-repeat center center/cover;
+ background: url("../img/render_tempio_di_zeus.png") no-repeat center center/cover;
 }
 /* Header Sezione Fashion*/
 .hero-fashion-double {
-  background: url("../img/Mira_aurea_shooting10.webp") no-repeat center center/cover;
+  background: url("../img/Mira_aurea_shooting10.jpg") no-repeat center center/cover;
 }
 .hero-fashion-urban {
-  background: url("../img/moodboard.webp") no-repeat center center/cover;
+  background: url("../img/moodboard.png") no-repeat center center/cover;
 }
 /* Header Sezione Prodotto*/
 .hero-product-espositore {
-    background: url("../img/espositore_piante_focus.webp") no-repeat center center/cover;
+    background: url("../img/espositore_piante_focus.jpg") no-repeat center center/cover;
 }
 .hero-product-rust {
-    background: url("../img/bench_sfondo.webp") no-repeat center center/cover;
+    background: url("../img/bench_sfondo.jpeg") no-repeat center center/cover;
 }
 .hero-product-elys {
     background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.6)),
