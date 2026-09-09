@@ -72,14 +72,15 @@ body {
   background: url("../img/Mira_aurea_shooting10.jpg") no-repeat center center/cover;
 }
 .hero-fashion-urban {
-  background: url("../img/moodboard.jpg") no-repeat center center/cover;
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)),
+        url("../img/moodboard.jpg") no-repeat center center/cover;
 }
 /* Header Sezione Prodotto*/
 .hero-product-espositore {
     background: url("../img/espositore_piante_focus.jpg") no-repeat center center/cover;
 }
 .hero-product-rust {
-    background: url("../img/bench_sfondo.jpeg") no-repeat center center/cover;
+    background: url("../img/bench_sfondo.jpg") no-repeat center center/cover;
 }
 .hero-product-elys {
     background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.6)),
@@ -304,17 +305,17 @@ h4 {
 }
 
 
-.testo {
+.testo-contacts {
   background-color:#642a38;
   padding:50px 100px;
   color:white;
 }
 
-.testo h1 {
-  color:white;
+.testo-contacts h1 {
+  color:#f2f4f3;
 }
 
-.testo p {
+.testo-contacts p {
   font-size: 1.2rem;
   font-family: "PlayfairDisplay", serif;
   color: #f2f4f3;
