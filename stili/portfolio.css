@@ -251,6 +251,7 @@ section {
   display: flex;
   flex-direction:column;
   width: 90%;
+  max-width: 1300px; /* <--- Limita la larghezza massima sugli schermi grandi */
   padding: 60px 0;
   margin: 0 auto;
   align-items: center;
@@ -267,13 +268,13 @@ article {
 }
 
 .project p {
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-family: "PlayfairDisplay", serif;
   color: #111111;
 }
 
 .project li {
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-family: "PlayfairDisplay", serif;
   color: #111111;
 }
@@ -302,8 +303,8 @@ h4 {
 }
 
 .testo-contacts p {
-  font-size: 1.2rem;
-  font-family: "PlayfairDisplay", serif;
+  font-size: 1rem;
+  font-family: "Poppins Regular", sans-serif;
   color: #f2f4f3;
   padding: 9px;
   text-align: justify;
@@ -319,8 +320,8 @@ h4 {
 .testo-box p {
   margin-bottom: 0px; /* Ridotto da quello standard di circa 16-20px */
   /*padding: 20px 30px 5px 30px;*/
-  font-size: 1.2rem;
-  font-family: "PlayfairDisplay", serif;
+  font-size: 1rem;
+  font-family: "Poppins Regular", sans-serif;
   line-height: 1.4;
   text-align: justify;
   color: black;
@@ -339,8 +340,8 @@ h4 {
 }
 
 .testo-box li {
-  font-size: 1.1rem;
-  font-family: "PlayfairDisplay", serif;
+  font-size: 1rem;
+  font-family: "Poppins Regular", sans-serif;
   line-height: 1.4;
   text-align: justify;
   margin-bottom: 8px; /* Spazio tra le voci dell'elenco */
@@ -481,6 +482,7 @@ h5 {
 .project-info p, .project-info li {
   line-height: 1.6;
   text-align: justify;
+  font-family:"Poppins Regular", sans-serif;
 }
 
 /* GALLERY DINAMICA */
@@ -977,8 +979,8 @@ color: #4a2030; */
 
     .testo-box p {
     /*  padding: 15px;*/
-      font-size: 0.8rem;
-      font-family: "PlayfairDisplay", serif;
+      font-size: 0.7rem;
+      font-family: "Poppins Regular", sans-serif;
       color: #111111;
     }
 
@@ -1037,7 +1039,7 @@ color: #4a2030; */
     width: 70%;
     height: auto;
   }
-  
+
   .project {
     display: flex;
     flex-direction: column;
@@ -1119,7 +1121,7 @@ color: #4a2030; */
   }
 
   .testo-contacts p {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     text-align: left;
   }
 
